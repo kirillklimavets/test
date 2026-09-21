@@ -2,5 +2,5 @@
   "host": "185.251.38.156",
   "ssh_port": "50822",
   "http_port": "50802",
-  "socks_port": "50803",
+  "socks_port": "50803"
 }
